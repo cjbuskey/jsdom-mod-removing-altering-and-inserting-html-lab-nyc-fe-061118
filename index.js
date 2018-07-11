@@ -4,3 +4,4 @@ main.remove()
 const newHeader = null;
 var element = createElement('h1', victory)
 element.innerHTML = 'CJ is the champion!'
+document.body.
